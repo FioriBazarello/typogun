@@ -1,0 +1,21 @@
+#main-container {
+  padding: 10px;
+  text-align: center;
+}
+
+#test-label {
+  padding: 24px;
+}
+
+.success {
+  color: green;
+}
+
+.fail {
+  color: red;
+}
+
+#historic-table {
+  width: 100%;
+  padding: 30px;
+}
